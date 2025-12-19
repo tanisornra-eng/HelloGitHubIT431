@@ -27,7 +27,7 @@
  main
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อออออออออ</li>
+				<li><a href="contact.php">ติดต่อออออออออออออออออออออออออออ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
